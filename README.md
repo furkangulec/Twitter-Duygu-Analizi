@@ -5,5 +5,5 @@ Düzce Üniversitesi Bilgisayar Mühendisliği bölümünde bitirme tezi olarak 
 
 Projenin kodlarına Google Colab üzerinden ulaşmak için linki aşağıya bırakıyorum.
 
-[Twitter Duygu Analizi](https://colab.research.google.com/drive/1mk4ddlbGowDsFHzKenRXsLkUygQ9r-72?usp=sharing).
+[Twitter Duygu Analizi](https://colab.research.google.com/github/furkangulec/Twitter-Duygu-Analizi/blob/main/twitter_duygu_analizi.ipynb)
 
